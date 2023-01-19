@@ -1,4 +1,3 @@
-import {} from "vue";
 import BaseSetupService from "@/setup/BaseSetupService";
 
 type Props = SetupProps<typeof BasePhotographyCardSetupService.props>;

@@ -1,12 +1,12 @@
 # setup-service-demo
 
-This is a template to demonstrate the concept of the SetupService RFC (link to come).
+This is a template to demonstrate the concept of the [SetupService RFC](https://github.com/vuejs/rfcs/discussions/481).
 
 It's a simple project to explain the basics of this concept and experiment the advantages it can bring to the DX.
 
 ---
 
-##### Below is the default Vue README in case anyone needs it for installation instructions
+### Below is the default Vue README in case anyone needs it for installation instructions
 
 This template should help get you started developing with Vue 3 in Vite.
 
